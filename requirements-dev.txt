@@ -1,4 +1,5 @@
 -r requirements.txt
+-r requirements-lint.txt
 
 pre-commit==3.7.0
 ruff==0.3.4
