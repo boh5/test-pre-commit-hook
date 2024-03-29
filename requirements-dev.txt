@@ -1,5 +1,6 @@
 -r requirements.txt
 -r requirements-lint.txt
+-r requirements-tests.txt
 
 pre-commit==3.7.0
 ruff==0.3.4
