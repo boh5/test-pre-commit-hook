@@ -10,6 +10,16 @@ def sum_even_numbers(numbers: Iterable[int]) -> int:
     return sum(num for num in numbers if num % 2 == 0)
 
 
+def test(t1, t2, t3):
+    # param not use
+    print(1)
+    # too many empty lines
+
+
+
+    print(2)
+
+
 def token():
     print(secrets.token_urlsafe())
 
