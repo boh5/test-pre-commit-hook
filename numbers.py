@@ -1,5 +1,6 @@
 import secrets
 from collections.abc import Iterable
+import logging
 
 
 def sum_even_numbers(numbers: Iterable[int]) -> int:
